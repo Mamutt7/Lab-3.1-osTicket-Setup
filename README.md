@@ -150,5 +150,6 @@ Congratulations, hopefully it is installed with no errors!
 End Users osTicket URL:
 -	http://localhost/osTicket/ ![image](https://github.com/user-attachments/assets/dbe09db6-b0a5-44e2-b119-2611b7a46093)
 
-
+<h2>Takeaways and Key Skills Developed</h2>
+In this project, I successfully installed and set up osTicket on an Azure Windows VM to practice admin and user skills. I started by configuring a VM with Windows 10 and installing necessary components like IIS (Internet Information Services), PHP, and MySQL to support osTicket. I also installed dependencies such as PHP Manager for IIS and Rewrite Module. After configuring the PHP settings and permissions, I uploaded osTicket files to the IIS server and set up a MySQL database. Finally, I completed the osTicket installation through the browser, verifying that everything was working smoothly by testing the help desk login page. This project helped me learn the steps of installing and configuring a web-based application, setting up a MySQL database, and troubleshooting permission and configuration issues during the process.
  
