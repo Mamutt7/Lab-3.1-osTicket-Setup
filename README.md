@@ -4,7 +4,7 @@
 
 # osTicket - Prerequisites and Installation
 
-In this home lab, I will install and set up osTicket using an Azure Windows VM to showcase and practice my admin and user skills later.
+In this home lab, I will deploy and configure osTicket on an Azure Windows VM to demonstrate and refine both my administrative and user management skills.
 
 ## Environments and Technologies Used
 
